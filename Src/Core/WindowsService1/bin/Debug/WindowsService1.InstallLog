@@ -1,0 +1,133 @@
+﻿Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service2...
+Creating EventLog source Service2 in log Application...
+Rolling back assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service2.
+Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Rolling back assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service2...
+Creating EventLog source Service2 in log Application...
+Rolling back assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service2.
+Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service WebApiHostService...
+Service WebApiHostService has been successfully installed.
+Creating EventLog source WebApiHostService in log Application...
+Committing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Uninstalling assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source WebApiHostService.
+Service WebApiHostService is being removed from the system...
+Service WebApiHostService was successfully removed from the system.
+Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service WebApiHostService...
+Service WebApiHostService has been successfully installed.
+Creating EventLog source WebApiHostService in log Application...
+Committing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Uninstalling assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source WebApiHostService.
+Service WebApiHostService is being removed from the system...
+Service WebApiHostService was successfully removed from the system.
+Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service WebApiHostService...
+Service WebApiHostService has been successfully installed.
+Creating EventLog source WebApiHostService in log Application...
+Committing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Uninstalling assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source WebApiHostService.
+Service WebApiHostService is being removed from the system...
+Service WebApiHostService was successfully removed from the system.
+Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service WebApiHostService...
+Service WebApiHostService has been successfully installed.
+Creating EventLog source WebApiHostService in log Application...
+Committing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Uninstalling assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source WebApiHostService.
+Service WebApiHostService is being removed from the system...
+Service WebApiHostService was successfully removed from the system.
+Installing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service WebApiHostService...
+Service WebApiHostService has been successfully installed.
+Creating EventLog source WebApiHostService in log Application...
+Committing assembly 'C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\aghamohammad.a\source\repos\Test\WindowsService1\bin\Debug\WindowsService1.InstallLog

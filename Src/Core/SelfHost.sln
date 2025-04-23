@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService1", "WindowsService1\WindowsService1.csproj", "{EB5D481B-3059-46D6-B74C-275090D1130A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHost.Api", "Test.Api\SelfHost.Api.csproj", "{A89CD140-8511-4A6E-AC70-8EE109D1B66C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5D481B-3059-46D6-B74C-275090D1130A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5D481B-3059-46D6-B74C-275090D1130A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5D481B-3059-46D6-B74C-275090D1130A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5D481B-3059-46D6-B74C-275090D1130A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89CD140-8511-4A6E-AC70-8EE109D1B66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89CD140-8511-4A6E-AC70-8EE109D1B66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89CD140-8511-4A6E-AC70-8EE109D1B66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89CD140-8511-4A6E-AC70-8EE109D1B66C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
